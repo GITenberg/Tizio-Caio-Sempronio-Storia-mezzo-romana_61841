@@ -1,5 +1,8 @@
 _repo: Tizio-Caio-Sempronio-Storia-mezzo-romana_61841
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61841-h/images/cover.jpg
 creator:
   author:
     agent_name: Barrili, Anton Giulio
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
     - https://it.wikipedia.org/wiki/Anton_Giulio_Barrili
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61841#Tizio-Caio-Sempronio-Storia-mezzo-romana
 gutenberg_issued: '2020-04-15'
 gutenberg_type: Text
 identifiers:
